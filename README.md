@@ -1,11 +1,11 @@
 # Brown Bag Research Talk Series
-**Department of Computer Science, The University of South Dakota**
+**Department of Computer Science, University of South Dakota**
 
-# Mark Montgomery
-Founder & CEO KYield, Inc.<br>
-**Mark Montgomery is the founder, chief executive officer, and chairman of the board of the company. He is the inventor of the now patented AI system that serves as the foundation for the KYield OS as well as the patent-pending Synthetic Genius Machine. Mark has been a pioneer in cloud computing and AI systems since the 1990s. He was formerly an entrepreneur, consultant and early-stage venture capitalist.**
+# Szilard Vajda,
+ Assistant Professor, Central Washington University, WA<br>
+**Dr. Vajda is a multilingual scholar serving as an Assistant Professor at Computer Science Department at Central Washington University, Ellensburg, WA. He is conducting research on machine learning, pattern recognition, high-performance computing, etc and he is actively involved in supervising graduate and undergraduate students. He holds University of Lorraine (former Henri Poincare University), Nancy, France and BSc in Computer Science from University Babes-Bolyai, Cluj-Napoca, Romania. **
 
-# Title: Metamorphic Transformation with Enterprise wide Artificial Intelligence
-Date and time: Nov. 19, 2020, 2:00 – 3:00 PM (Central Time)<br>
-Meeting space: https://usd.zoom.us/j/99837816224 (Public)
+# Title: Tuberculosis detection in chest x-ray images using small data collections
+Date and time:  Feb. 4, 2021, 2:00 – 3:00 PM (Central Time)<br>
+Meeting space:  https://usd.zoom.us/j/99837816224 (Public)
 
